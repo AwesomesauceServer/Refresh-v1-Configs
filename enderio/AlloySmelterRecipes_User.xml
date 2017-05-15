@@ -28,4 +28,46 @@
 
 <AlloySmelterRecipes>
 
+	<recipeGroup name="Tinkers Construct" >
+	
+		<recipe name="Manyullyn_Ore" energyCost="22528" >
+		  <input>
+		  	<itemStack oreDictionary="oreArdite" number="1" />
+			<itemStack oreDictionary="oreCobalt" number="1" />
+		  </input>
+		  <output>
+			<itemStack oreDictionary="ingotManyullyn" number="2" />
+		  </output>
+		</recipe>
+		
+		<recipe name="Manyullyn_Ingot" energyCost="22528" >
+		  <input>
+		  	<itemStack oreDictionary="ingotArdite" number="1" />
+			<itemStack oreDictionary="ingotCobalt" number="1" />
+		  </input>
+		  <output>
+			<itemStack oreDictionary="ingotManyullyn" number="1" />
+		  </output>
+		</recipe>
+		
+		<recipe name="Ardite" energyCost="6144" >
+		  <input>
+			<itemStack oreDictionary="oreArdite" number="1" />
+		  </input>
+		  <output>
+			<itemStack oreDictionary="ingotArdite" number="2" />
+		  </output>
+		</recipe>
+		
+		<recipe name="Cobalt" energyCost="6144" >
+		  <input>
+			<itemStack oreDictionary="oreCobalt" number="1" />
+		  </input>
+		  <output>
+			<itemStack oreDictionary="ingotCobalt" number="2" />
+		  </output>
+		</recipe>
+		
+	</recipeGroup>
+
 </AlloySmelterRecipes>
