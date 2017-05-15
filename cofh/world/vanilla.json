@@ -50,9 +50,9 @@
 					}
 				},
 				"material": "stone",
-				"cluster-size": 33
+				"cluster-size": 12
 			},
-			"cluster-count": 10,
+			"cluster-count": 8,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -75,9 +75,9 @@
 					}
 				},
 				"material": "stone",
-				"cluster-size": 33
+				"cluster-size": 12
 			},
-			"cluster-count": 10,
+			"cluster-count": 8,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -100,9 +100,9 @@
 					}
 				},
 				"material": "stone",
-				"cluster-size": 33
+				"cluster-size": 12
 			},
-			"cluster-count": 10,
+			"cluster-count": 8,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -122,7 +122,7 @@
 				"material": "stone",
 				"cluster-size": 17
 			},
-			"cluster-count": 20,
+			"cluster-count": 22,
 			"min-height": 0,
 			"max-height": 128,
 			"retrogen": false,
@@ -140,7 +140,7 @@
 			"generator": {
 				"block": "iron_ore",
 				"material": "stone",
-				"cluster-size": 9
+				"cluster-size": 10
 			},
 			"cluster-count": 20,
 			"min-height": 0,
@@ -162,9 +162,9 @@
 				"material": "stone",
 				"cluster-size": 9
 			},
-			"cluster-count": 2,
+			"cluster-count": 6,
 			"min-height": 0,
-			"max-height": 32,
+			"max-height": 34,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -182,9 +182,9 @@
 				"material": "stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 8,
+			"cluster-count": 10,
 			"min-height": 0,
-			"max-height": 16,
+			"max-height": 18,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -202,9 +202,9 @@
 				"material": "stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 1,
+			"cluster-count": 4,
 			"min-height": 0,
-			"max-height": 16,
+			"max-height": 18,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -222,8 +222,8 @@
 				"material": "stone",
 				"cluster-size": 7
 			},
-			"cluster-count": 1,
-			"center-height": 16,
+			"cluster-count": 4,
+			"center-height": 18,
 			"spread": 16,
 			"retrogen": false,
 			"biome": "all",
@@ -283,11 +283,11 @@
 				"cluster-size": 1
 			},
 			"cluster-count": {
-				"min": 3,
-				"max": 6
+				"min": 6,
+				"max": 9
 			},
-			"min-height": 4,
-			"max-height": 28,
+			"min-height": 0,
+			"max-height": 32,
 			"retrogen": false,
 			"biome": {
 				"restriction": "whitelist",
@@ -356,9 +356,9 @@
 			"generator": {
 				"block": "quartz_ore",
 				"material": "netherrack",
-				"cluster-size": 14
+				"cluster-size": 16
 			},
-			"cluster-count": 16,
+			"cluster-count": 18,
 			"min-height": 10,
 			"max-height": 118,
 			"retrogen": false,
