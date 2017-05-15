@@ -1,0 +1,7 @@
+# Thump IRC
+thump/*
+thump/services/*
+irc.cfg
+
+# Logs
+*.log
