@@ -2,6 +2,12 @@
   "items": [],
   "blocks": [
     {
+      "id": "tp:ender_ore",
+      "meta": 0,
+      "focusColor": "green",
+      "weight": 12
+    },
+    {
       "id": "rftools:dimensional_shard_ore",
       "meta": 0,
       "focusColor": "white",
