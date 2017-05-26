@@ -98,4 +98,32 @@
 
 <SAGMillRecipes>
 
+	<recipeGroup name="RF Tools" >
+	
+		<recipe name="DimensionalShard" energyCost="800" >
+			<input>
+				<itemStack modID="rftools" itemName="dimensional_shard_ore" />
+			</input>  
+			<output>
+				<itemStack modID="rftools" itemName="dimensional_shard" number="4" />
+				<itemStack modID="rftools" itemName="dimensional_shard" number="1" chance="0.20" />
+			</output>
+		</recipe>
+	
+	</recipeGroup>
+	
+	<recipeGroup name="Tiny Progressions" >
+	
+		<recipe name="EnderDust" energyCost="1000" >
+			<input>
+				<itemStack modID="tp" itemName="ender_ore" />
+			</input>  
+			<output>
+				<itemStack modID="tp" itemName="ender_dust" number="4" />
+				<itemStack modID="tp" itemName="ender_dust" number="1" chance="0.20" />
+			</output>
+		</recipe>
+		
+	</recipeGroup>
+
 </SAGMillRecipes>
