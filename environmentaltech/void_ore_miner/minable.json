@@ -2,6 +2,12 @@
   "items": [],
   "blocks": [
     {
+      "id": "armorplus:block_lava_crystal",
+      "meta": 0,
+      "focusColor": "red",
+      "weight": 10
+    },
+    {
       "id": "tp:ender_ore",
       "meta": 0,
       "focusColor": "green",
