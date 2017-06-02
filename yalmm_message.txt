@@ -1,0 +1,1 @@
+["",{"text":"Welcome to the "},{"text":"Awesomesauce Server Refresh-v1 modpack","color":"gold"},{"text":"!\nLast pack update was: "},{"text":"05-16-2017 1:00 PM EST","color":"gold"},{"text":".\n"},{"text":"Click here to visit the pack information page","underlined":true,"color":"white","clickEvent":{"action":"open_url","value":"https://goo.gl/RzrEMQ"}},{"text":"."}]
