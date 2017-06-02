@@ -3,10 +3,5 @@ thump/*
 thump/services/*
 irc.cfg
 
-# Dynmap
-dynmap/web/*
-hiddenplayers.txt
-ids-by-ip.txt
-
 # Logs
 *.log
