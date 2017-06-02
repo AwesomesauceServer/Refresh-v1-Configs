@@ -1,0 +1,40 @@
+worlds:
+-   sealevel: 64
+    nether: false
+    name: world
+    the_end: false
+    title: world/Overworld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-9999
+    the_end: false
+    title: world/ExtraUtils2_Quarry_Dim
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-11325
+    the_end: false
+    title: world/Deep Dark
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM1
+    the_end: true
+    title: world/The End
+    height: 256
+-   sealevel: 64
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: world/Nether
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM6
+    the_end: false
+    title: world/MiningWorld
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
