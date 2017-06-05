@@ -1,4 +1,5 @@
 # Dynmap
+config/* linguist-vendored=false
 dynmap/*.txt linguist-language=YAML
-yalmm_message.txt linguist-language=JSON
 journeymap/server/5.4/*.config linguist-language=JSON
+yalmm_message.txt linguist-language=JSON
