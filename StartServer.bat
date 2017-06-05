@@ -26,6 +26,8 @@ echo %consoleSeparator%
 
 "%javaEXE%" %javaArgs% -jar %forgeJar% nogui
 
+for /f "tokens=1-4 delims=:." %%a in ("%time%") do (set forgeTime=%%a:%%b:%%c)
+
 echo %consoleSeparator%
 echo [%forgeTime%] [%~n0.bat] [%serverTitle%] Server stopped!
 echo %consoleSeparator%
